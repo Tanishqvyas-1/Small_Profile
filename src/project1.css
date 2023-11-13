@@ -1,0 +1,45 @@
+
+.img{
+    margin-left: 400px;
+}
+.btn1{
+    cursor: pointer;
+    margin-left: 400px;
+    margin-top: 20px;
+}
+.name{
+    margin-left: 400px;
+}
+.name h2{
+    margin-left: 60px;
+}
+.btn2{
+    margin-bottom: 5px;
+    margin-left: 20px;
+    background-color: #0072b1;
+    color: white;
+    cursor: pointer;
+}
+
+.btn{
+    margin-left: 50px;
+}
+.about{
+   width: 400px;
+   height: 100px;
+   margin-left: 400px;
+}
+.interests{
+    width: 400px;
+    height: 100px;
+    margin-left: 400px;
+    margin-top: 60px;
+ }
+ .footer{
+    display: flex;
+    margin-left: 400px;
+    margin-top: 60px;
+ }
+ .footer img{
+    padding: 10px;
+ }
